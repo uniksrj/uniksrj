@@ -4,13 +4,13 @@
   <p>Building scalable web platforms, APIs, and cross-platform mobile apps.</p>
 
   <p>
-    <a href="https://linkedin.com/in/yourusername">
+    <a href="https://www.linkedin.com/in/suraj-thapa-1651591bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:surajrajput733@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/uniksrj">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
