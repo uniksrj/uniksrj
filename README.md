@@ -47,21 +47,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📌 Featured Projects
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **Real Estate Platform** | React, Laravel, MySQL | Comprehensive property listing engine with role-based access and REST APIs. | [Code](https://github.com/yourusername) · [Live Demo](https://yourproject.com) |
-| **Cross-Platform Mobile App** | React Native, Expo, Node.js | Smooth mobile app featuring authentication, real-time updates, and offline sync. | [Code](https://github.com/yourusername) |
-| **RESTful API Service** | Express.js, Docker | Containerized microservice architecture with JWT auth and rate-limiting. | [Code](https://github.com/yourusername) |
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uniksrj&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniksrj&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
