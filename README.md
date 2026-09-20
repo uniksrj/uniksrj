@@ -24,6 +24,8 @@
 - 🛠️ Comfortable handling both monolithic MVC frameworks and decoupled RESTful architectures.
 - 📦 Experienced with containerized workflows and microservices using Docker.
 - 🌱 Continuously refining my craft in scalable system design and modern front-end architectures.
+  
+- - 🔒 *Note: A substantial portion of my client and production work resides in private repositories.*
 
 ---
 
