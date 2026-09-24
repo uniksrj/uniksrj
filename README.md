@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Suraj 👋</h1>
+  <h1>Hi, I'm Suraj</h1>
   <p><strong>Full-Stack & Mobile Developer</strong></p>
   <p>Building scalable web platforms, APIs, and cross-platform mobile apps.</p>
 
